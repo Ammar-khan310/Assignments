@@ -32,7 +32,7 @@ void main(){
 
   print(i);
 
-// Robert's Ferccentage
+// Robert's percentage
 
   String name = "Robert";
   int marks1 = 78;
